@@ -1,5 +1,5 @@
 # Privacy Policy
-Musical Instruments Atlas is a release from a collection of applications named Atlas. Perhaps the name is pretentious or even misleading. Is not on purpose. We really did not found a better one.
+Vegetables Atlas is a release from a collection of applications named Atlas. Perhaps the name is pretentious or even misleading. Is not on purpose. We really did not found a better one.
 
 In a nutshell Atlas is a quick reference on a particular subject. It is focused on facts, with reasonable amount of text and media content. It is not meant to be exhaustive but rather to be used as a quick reference on a particular subject or field. For complete reference one can visit external sources that are linked on every article.
 
