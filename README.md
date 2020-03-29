@@ -1,6 +1,6 @@
-# atlas.instruments
+# atlas.vegetables
 
-Musical Instruments Atlas shows a glimpse on the variety of musical instruments used all over the world, some of which you never heard about. 
+Interesting facts and images, uses and nutrients concentration of some of vegetables commonly used in world cuisines.
 
 It is focused on facts, with reasonable amount of text and media content. 
 
@@ -20,10 +20,10 @@ Thank you for using the atlas, please help improving and spread the word.
 
 | Authority                               | Link
 |-----------------------------------------|--------------------------------------------
-| Cambridge Dictionary                    | https://dictionary.cambridge.org/
+| Encyclopedia of Life                    | https://eol.org/
 | Encyclopædia Britannica                 | https://www.britannica.com/ 
+| Integrated Taxonomic Information System | https://www.itis.gov/
 | Kiddle Facts For Kids                   | https://www.kiddle.co/
-| Merriam-Webster                         | https://www.merriam-webster.com/
 | SoftSchools Facts                       | http://www.softschools.com/facts/
 | The Free Dictionary                     | http://www.thefreedictionary.com/
 | YouTube                                 | https://www.youtube.com/
